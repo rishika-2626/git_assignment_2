@@ -6,4 +6,4 @@ Semester: Fourth Semester
 Name: VENNAPUREDDDY MAHATHI
 Roll No: 2024BCS-081
 Course: Computer Science
-Semester: 4
+Semester: Fourth semester
