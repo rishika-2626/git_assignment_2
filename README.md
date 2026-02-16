@@ -1,5 +1,5 @@
 # git_assignment_2
-Name: Thatipamula Rishika
+Name: THATIPAMULA RISHIKA
 Roll No: 2024BCS-079
 Course: Computer Science
 Semester: 4
